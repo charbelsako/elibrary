@@ -1,0 +1,7 @@
+User: id, name, email, password, type
+Categories: id, name
+Books: id, title, publication_date, price, quantity, author_id, category_id
+Author: id, name
+Cart: id, user_id, book_id
+// Later on.
+User_Info: user_id, card_number, etc...

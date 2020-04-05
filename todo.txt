@@ -1,0 +1,47 @@
+- [ ] Search Page
+
+- [*] Book detail page
+    - [*] fetch data form openlibrary.org
+    
+
+- Cart:
+    - [*] Make a cart page.
+    - [*] Make cart table.
+    - [*] Populate cart page with data from database.
+
+- Authors:
+    - [*] Add authors to the database (before adding books).
+    - [ ] Add 10+ more authors
+
+
+- Categories Page:
+    - [*] Populate page from database.
+    - [*] Populate database category table.
+    - [*] Make them links that search for specific genres
+
+- Books:
+    - [ ] Add 10+ books to the database.
+    - [*] Make the book table;
+
+    
+- User:
+    - [*] Make the user table.
+- Admin:
+    - [*] Manages books (add, edit, delete) 
+    - [*] Manages categories (add, edit, delete)
+    - [*] Manages authors (add, delete edit)
+    - [1/3] Manages users (delete?, ban?)
+    - [] Publishers?
+- Security:
+    - [ ] Encrypt passwords
+    - [ ] XSS protection (use htmlspecialchars)
+    - [*] SQL Injection protection
+- Login:
+    - [*] Make a login page.
+    - [*] Validate user input.
+- Register:
+    - [*] Make the page
+    - [*] Attach it to database.
+    - [*] Validate user input
+    - [*] Make a new user that is an admin
+- [*] Create database
